@@ -16,7 +16,7 @@
 - [Live Demo](https://souvik-dey-28.github.io/Age-Calculator/)
 </br>
 <p align="center">Made with html,css and js</p>
-<p align="center">Copyright © 2024-Author U7P4L !N</p>
+<p align="center">Copyright © 2024-Author SOUVIK DEY </p>
 <div align="center">
   <a href="LICENSE"><img src="https://custom-icon-badges.demolab.com/github/license/souvik-dey-28/Age-Calculator?label=License&labelColor=302d41&color=91d7e3&logo=law&logoColor=d9e0ee&style=for-the-badge" alt="License"></a>
 </div>
